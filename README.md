@@ -1,2 +1,2 @@
 # UTD_gpa_calc
-GPA calculator based on UTD's GPA system.
+GPA calculator for UTD's GPA system based on a linked list in C++.
